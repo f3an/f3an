@@ -61,9 +61,8 @@
 ---
 
 ### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=f3an&theme=dark&background=000000)](https://git.io/streak-stats)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f3an&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=f3an&show_icons=true&theme=dark)
+<div id="git-stats" align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=f3an&theme=dark&background=000000">
+  <img src="https://github-readme-stats.vercel.app/api?username=f3an&show_icons=true&theme=vision-friendly-dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3an&layout=compact&theme=vision-friendly-dark">
+</div>
