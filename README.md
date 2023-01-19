@@ -11,6 +11,9 @@
   <a href="https://t.me/f3anofficial">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  <a href="mailto:cherniavskyiihor@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=f3an&style=flat-square&color=blue" alt="Views Badge"/>
    <a href="https://www.codewars.com/users/f3an">
