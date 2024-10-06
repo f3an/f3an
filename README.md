@@ -35,7 +35,7 @@
 
 ---
 ### 👨‍💻 About Me :
- I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine🇺🇦.
+ I am Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine🇺🇦.
   - 🔭 Working on myself
   - 🌱 Learning modern front end technologies
   - 🗿 In my free time, I like to read fiction such as The Witcher <img src="https://i.pinimg.com/originals/3f/78/08/3f7808a419c74cd1eec609ce71b9fced.jpg" width="40"> or Harry Potter ⚡️.
